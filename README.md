@@ -25,7 +25,8 @@ I'm a dedicated data analyst passionate about transforming raw data into meaning
   - Total Revenue: 519K
   - Gross Profit: 230K
   - Top-performing districts: Cumilla, Chattogram, Chandpur
-- **Access**: [View Power BI Report](https://app.powerbi.com/)
+- **Access**: [View Power BI Report]([https://app.powerbi.com/](https://app.powerbi.com/groups/me/reports/20cb71c1-01c5-4cca-b9a3-a0a537e8344e/6278903a1dd2d97a9dc7?experience=power-bi))
+![Screenshot 2025-05-09 212802](https://github.com/user-attachments/assets/a67943a4-70da-48a0-b1d1-f166e8686df0)
 
 ### 📌 Tableau: Global Sales Performance
 
@@ -34,7 +35,8 @@ I'm a dedicated data analyst passionate about transforming raw data into meaning
   - USA leads with over $1 million in sales.
   - Top products: 70% Dark Bites, Smooth Choco Syrup, Milk Eclairs.
   - High-performing regions: North America, Europe, Asia-Pacific.
-- **Access**: [View Tableau Report](https://public.tableau.com/app/discover)
+- **Access**: [View Tableau Report]([https://public.tableau.com/app/discover](https://public.tableau.com/app/profile/somair.hossain/viz/Book2_17469781292550/Dashboard1?publish=yes))
+![Screenshot 2025-05-11 214241](https://github.com/user-attachments/assets/65a98b32-7a46-420e-a589-38de1e10d9ad)
 
 ---
 
